@@ -1092,10 +1092,10 @@ About CSS
   height: 39em;
   position: absolute;
   width: 42em;
-  bottom: -10px;
-  left: -10px;
+  bottom: 80px;/*-10px;*/
+  left: 52px;/*-10px;*/
   background: #FFDD6E;
-  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+  border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;/*50% 50% 50% 50% / 60% 60% 40% 40%;*/
   -webkit-animation: movebounce 3s linear infinite;
   animation: movebounce 3s linear infinite;
 }
@@ -1103,7 +1103,7 @@ About CSS
 .rocket {
   position: absolute;
   right: -20px;
-  bottom: 20rem;
+  bottom: 5rem;/*20rem;*/
   -webkit-animation: movebounce 3s linear infinite;
   animation: movebounce 3s linear infinite;
 }
