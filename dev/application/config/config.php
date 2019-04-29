@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['apps_path']='dev';
-$config['base_url'] = 'http://'.$_SERVER['HTTP_HOST'].'/'.$config['apps_path'].'/';
+$config['base_url'] = 'https://'.$_SERVER['HTTP_HOST'].'/'.$config['apps_path'].'/';
 
 /*
 |--------------------------------------------------------------------------
