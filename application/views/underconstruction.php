@@ -23,8 +23,6 @@
     </head>
     
     <body>
-        <?php print_r('aaaaaaaaaaaaa');?>
-        <?php print_r($_SERVER);?>
         <img src="<?php echo $this->config->item('assets_frontend_url');?>img/underconstruction.png"/>        
     </body>
 </html>

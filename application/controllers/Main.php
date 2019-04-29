@@ -8,7 +8,6 @@ class Main extends CI_Controller{
 	
 	public function index()
 	{		
-		echo 'debug controller';
 		$this->load->view($this->config->item('theme_name').'about');
 	}
 }
