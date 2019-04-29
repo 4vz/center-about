@@ -23,6 +23,7 @@
     </head>
     
     <body>
+        harusnya sudah tidak mengarah kesini
         <img src="<?php echo $this->config->item('assets_frontend_url');?>img/underconstruction.png"/>        
     </body>
 </html>
