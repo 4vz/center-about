@@ -23,7 +23,6 @@
     </head>
     
     <body>
-      <?php print_r(base_url());?>
         <img src="<?php echo $this->config->item('assets_frontend_url');?>img/underconstruction.png"/>        
     </body>
 </html>
